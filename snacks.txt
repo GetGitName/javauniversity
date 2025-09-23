@@ -1,0 +1,6 @@
+1,Papas,70.0
+2,Refresco,50.0
+3,Sandwich,120.0
+4,pepsi,20.0
+5,Chocolate,20.3
+6,Fritos,2.2
